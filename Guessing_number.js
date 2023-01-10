@@ -11,5 +11,5 @@ if(num>a){
        console.log("your num is smaller try again!");
   }
   }while(num!=a);
-  console.log("!!!--------conguratulation------!!!","you     guess correct num");
+  console.log("!!!--------conguratulation------!!!","you guess correct num");
   
